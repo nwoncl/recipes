@@ -3,4 +3,4 @@
 - onions (£1.20)
 - potatoes (£3.00)
 # Instructions
-
+- shell the peas
